@@ -43,37 +43,9 @@ I'm interested in software development, programming, and exploring how technolog
 
 My personal portfolio repository — a place to showcase projects, experiments, and development progress.
 
-**Next step:** Add project descriptions, screenshots, technologies, and links to finished work.
 
 ---
 
-## 📊 GitHub Dashboard
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mistyy123&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B9DFF&icon_color=8B9DFF&text_color=C9D1D9" alt="GitHub stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mistyy123&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B9DFF&text_color=C9D1D9" alt="Most used languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Mistyy123&hide_border=true&background=0D1117&ring=8B9DFF&fire=8B9DFF&currStreakLabel=8B9DFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Contribution streak"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Mistyy123&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=10" alt="GitHub trophies"/>
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mistyy123&bg_color=0D1117&color=C9D1D9&line=8B9DFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/Mistyy123)
-
-</div>
-
----
 
 <div align="center">
 
